@@ -94,5 +94,23 @@
       "SwapToken": "TAI",
       "NativeToken": "TRX",
       "Address": "TTPXsKiQWNXLMZha7iDWbeSmm3c81DVG57"
+    },
+    {
+      "Blockchain": "TRON",
+      "SwapToken": "LIVE",
+      "NativeToken": "TRX",
+      "Address": "TVgAYofpQku5G4zenXnvxhbZxpzzrk8WVK"
+    },
+    {
+      "Blockchain": "TRON",
+      "SwapToken": "JT",
+      "NativeToken": "TRX",
+      "Address": "TWgpQjYEqqjRiedufYeDp4T2xCmK2iVAYG"
+    },
+    {
+      "Blockchain": "TRON",
+      "SwapToken": "ANK",
+      "NativeToken": "TRX",
+      "Address": "TCsxTt938mi536b4PMweLK4y4EJUjzL574"
     }]
   }
