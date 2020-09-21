@@ -10,5 +10,89 @@
       "SwapToken": "SEED",
       "NativeToken": "TRX",
       "Address": "TMFvnLMR1r1awHVGZsciwP4e3PVD7eiMWe"
+    },
+    {
+      "Blockchain": "TRON",
+      "SwapToken": "UP",
+      "NativeToken": "TRX",
+      "Address": "TUxqQp2qXUx7hT2F6Zx4hy85n8o9L9bzM9"
+    },
+    {
+      "Blockchain": "TRON",
+      "SwapToken": "KLV",
+      "NativeToken": "TRX",
+      "Address": "TDPWh9r6pMKN3DJDPJAZH7GMpewmgofyfW"
+    },
+    {
+      "Blockchain": "TRON",
+      "SwapToken": "WIN",
+      "NativeToken": "TRX",
+      "Address": "TDYEusxwaRkxs6JdGdWFLpEcXtjuVjeykU"
+    },
+    {
+      "Blockchain": "TRON",
+      "SwapToken": "BNKR",
+      "NativeToken": "TRX",
+      "Address": "TW1cnZrL1qtrH6mXXK2CM75Ax77C8ffmtk"
+    },
+    {
+      "Blockchain": "TRON",
+      "SwapToken": "SUN",
+      "NativeToken": "TRX",
+      "Address": "TCFkPBue2PJC4DYm3pcf2n8zS4BoS7HX5t"
+    },
+    {
+      "Blockchain": "TRON",
+      "SwapToken": "JST",
+      "NativeToken": "TRX",
+      "Address": "TStFJsoAcXXpn9rW7Q9VUhRE1D2pQV5oEN"
+    },
+    {
+      "Blockchain": "TRON",
+      "SwapToken": "JFI",
+      "NativeToken": "TRX",
+      "Address": "TEAVNdAKKEzXUSvECuQHCyXUZJ1aGRKa3s"
+    },
+    {
+      "Blockchain": "TRON",
+      "SwapToken": "USDJ",
+      "NativeToken": "TRX",
+      "Address": "TAHRToWQxwWiAA8eG96ZXk6AZAFf1fWRhd"
+    },
+    {
+      "Blockchain": "TRON",
+      "SwapToken": "DZI",
+      "NativeToken": "TRX",
+      "Address": "TGSnBBsXX6Dh5cK4tteDzQCVoCaVBzT1qQ"
+    },
+    {
+      "Blockchain": "TRON",
+      "SwapToken": "DICE",
+      "NativeToken": "TRX",
+      "Address": "TVJ7r82DcYaX3VBZY7Ri4P3v1gChcXTmJj"
+    },
+    {
+      "Blockchain": "TRON",
+      "SwapToken": "MX",
+      "NativeToken": "TRX",
+      "Address": "TLBAw1XUceZYCeT5bRuwZTkJsNVqpbxhZX"
+    },
+    {
+      "Blockchain": "TRON",
+      "SwapToken": "DFK",
+      "NativeToken": "TRX",
+      "Address": "TYVtCRYdHyYM7syuo6rVL8fbLRa6KnLzsB"
+    },
+    {
+      "Blockchain": "TRON",
+      "SwapToken": "PEARL",
+      "NativeToken": "TRX",
+      "Address": "TKaJATQVeVYiTB2fQBAhrC23viQuxoeLPb"
+    },
+    {
+      "Blockchain": "TRON",
+      "SwapToken": "TAI",
+      "NativeToken": "TRX",
+      "Address": "TTPXsKiQWNXLMZha7iDWbeSmm3c81DVG57"
     }]
   }
