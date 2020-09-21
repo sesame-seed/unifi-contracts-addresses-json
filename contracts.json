@@ -1,15 +1,15 @@
 {
     "Contract": [{
       "Blockchain": "TRON",
-      "SwapToken": "USDT",
-      "NativeToken": "TRX",
-      "Address": "TYmbq6sGxEe2VkhpSpvfiw5f8ir5HxpAun"
-    },
-    {
-      "Blockchain": "TRON",
       "SwapToken": "SEED",
       "NativeToken": "TRX",
       "Address": "TMFvnLMR1r1awHVGZsciwP4e3PVD7eiMWe"
+    },
+    {
+      "Blockchain": "TRON",
+      "SwapToken": "USDT",
+      "NativeToken": "TRX",
+      "Address": "TYmbq6sGxEe2VkhpSpvfiw5f8ir5HxpAun"
     },
     {
       "Blockchain": "TRON",
