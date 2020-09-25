@@ -112,5 +112,23 @@
       "SwapToken": "ANK",
       "NativeToken": "TRX",
       "Address": "TXZvtxh6YGrxGLkBMq74KBSuNr4QXC1ubw"
+    },
+    {
+      "Blockchain": "TRON",
+      "SwapToken": "BRG",
+      "NativeToken": "TRX",
+      "Address": "TRQEHQ4CJb1NA6geJrPHdNxmoqxRaQnsh6"
+    },
+    {
+      "Blockchain": "TRON",
+      "SwapToken": "SOUL",
+      "NativeToken": "TRX",
+      "Address": "TS7NC6BKsFwbkJk7TZZS636YNJWuRvBDg9"
+    },
+    {
+      "Blockchain": "TRON",
+      "SwapToken": "888",
+      "NativeToken": "TRX",
+      "Address": "TPmrnq1KFW4heHcTL42JnAQkgWSWyFa57S"
     }]
   }
