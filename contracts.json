@@ -130,5 +130,23 @@
       "SwapToken": "888",
       "NativeToken": "TRX",
       "Address": "TPmrnq1KFW4heHcTL42JnAQkgWSWyFa57S"
+    },
+    {
+      "Blockchain": "TRON",
+      "SwapToken": "DACC",
+      "NativeToken": "TRX",
+      "Address": "TJfzEyVCfyt5WdDgTYpZbudjqMEaTGK61W"
+    },
+    {
+      "Blockchain": "TRON",
+      "SwapToken": "PETRO",
+      "NativeToken": "TRX",
+      "Address": "THBE5gKQ9oSPh3UnwkZqdYPgYwwsEaBFTF"
+    },
+    {
+      "Blockchain": "TRON",
+      "SwapToken": "COLA",
+      "NativeToken": "TRX",
+      "Address": "TWXE63sCFtuupaUNZHuqkgiUYpQRuoCag3"
     }]
   }
